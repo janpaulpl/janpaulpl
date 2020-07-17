@@ -12,8 +12,4 @@
 - [Discord Ladbot](https://github.com/Camto/Lad)
 
 ### Contact | Media:
-- [Email](mailto:JanPaul.Ramos@Protonmail.com)
-- [Reddit](https://www.reddit.com/user/Stenfor)
-- [Twitter](https://twitter.com/jp_vinnie)
-- [Discord](https://discordapp.com/users/294518633541926912)
-- [YouTube](https://www.youtube.com/channel/UCD6b4d3B_u7fct5YypG0Wow)
+- [Email](mailto:JanPaul.Ramos@Protonmail.com) | [Reddit](https://www.reddit.com/user/Stenfor) | [Twitter](https://twitter.com/jp_vinnie) | [Discord](https://discordapp.com/users/294518633541926912) | [YouTube](https://www.youtube.com/channel/UCD6b4d3B_u7fct5YypG0Wow)
