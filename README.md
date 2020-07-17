@@ -2,6 +2,8 @@
 
 ![banner](https://github.com/jpVinnie/jpVinnie/blob/master/Data/ghbanner.png)
 
+→ Student interested in computational physics mixed with some theoretical cs. 
+
 ## Current Projects:
 - [VEX Robotics](https://github.com/CodeIGuess/Robotics)
 - [Discord Bot - Ladbot](https://github.com/Camto/Lad)
