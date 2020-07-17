@@ -4,7 +4,7 @@
   <img src="https://github.com/jpVinnie/jpVinnie/blob/master/Data/ghbanner.png" alt="banner" />
 </p>
 
-                     Student interested in computational physics mixed with some theoretical cs. 
+                        Student interested in computational physics mixed with some theoretical cs. 
 
 ## Current Projects:
 - [Discord Bot - FEHbot](https://github.com/jpVinnie/FEH-Bot)
