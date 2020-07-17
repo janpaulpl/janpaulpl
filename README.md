@@ -4,11 +4,11 @@
 
 ## Current Projects:
 - [VEX Robotics](https://github.com/CodeIGuess/Robotics)
-- [Discord Ladbot](https://github.com/Camto/Lad)
-- [Discord FEHbot](https://github.com/jpVinnie/FEH-Bot)
+- [Discord Bot - Ladbot](https://github.com/Camto/Lad)
+- [Discord Bot - FEHbot](https://github.com/jpVinnie/FEH-Bot)
 
 ### Proud of:
-- [Discord Bit - Ladbot](https://github.com/Camto/Lad)
+- [Discord Bot - Ladbot](https://github.com/Camto/Lad)
 - [High School Research Paper](https://github.com/jpVinnie/Pythagorean-Triples-in-the-Pascal-Triangle)
 
 ### Contact | Media:
