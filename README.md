@@ -1,7 +1,7 @@
 # [Hi!](https://jpvinnie.github.io/)
 
 <p align="center">
-  <img src="./Data/ghbanner.png" alt="banner" />
+  <img src="https://github.com/jpVinnie/jpVinnie/blob/master/Data/ghbanner.png" alt="banner" />
 </p>
 
                         Student interested in computational physics mixed with some theoretical cs. 
