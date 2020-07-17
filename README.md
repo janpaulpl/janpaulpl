@@ -4,7 +4,7 @@
   <img src="./Data/ghbanner.png" alt="banner" />
 </p>
 
-                      Student interested in computational physics mixed with some theoretical cs. 
+                        Student interested in computational physics mixed with some theoretical cs. 
 
 ## Current Projects:
 - [VEX Robotics](https://github.com/CodeIGuess/Robotics)
