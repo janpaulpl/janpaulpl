@@ -1,4 +1,4 @@
-# [Hi!](jpvinnie.github.io/)
+# [Hi!](https://jpvinnie.github.io/)
 
 ![banner](https://github.com/jpVinnie/jpVinnie/blob/master/Data/githubthing2.png)
 
