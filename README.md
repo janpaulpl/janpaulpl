@@ -8,7 +8,7 @@
 - [Discord FEHbot](https://github.com/jpVinnie/FEH-Bot)
 
 ### Proud of:
-- [Discord Ladbot](https://github.com/Camto/Lad)
+- [Discord Bit - Ladbot](https://github.com/Camto/Lad)
 - [High School Research Paper](https://github.com/jpVinnie/Pythagorean-Triples-in-the-Pascal-Triangle)
 
 ### Contact | Media:
