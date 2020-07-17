@@ -1,8 +1,10 @@
 # [Hi!](https://jpvinnie.github.io/)
 
-![banner](https://github.com/jpVinnie/jpVinnie/blob/master/Data/ghbanner.png)
+<p align="center">
+  <img src="./Data/ghbanner.png" alt="banner" />
+</p>
 
-→ Student interested in computational physics mixed with some theoretical cs. 
+                      Student interested in computational physics mixed with some theoretical cs. 
 
 ## Current Projects:
 - [VEX Robotics](https://github.com/CodeIGuess/Robotics)
