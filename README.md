@@ -1,6 +1,6 @@
 # [Hi!](https://jpvinnie.github.io/)
 
-![banner](https://github.com/jpVinnie/jpVinnie/blob/master/Data/githubthing2.png)
+![banner](https://github.com/jpVinnie/jpVinnie/blob/master/Data/ghbanner.png)
 
 ## Current Projects:
 - [VEX Robotics](https://github.com/CodeIGuess/Robotics)
