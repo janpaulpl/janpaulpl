@@ -7,7 +7,6 @@
                          Student interested in computational physics mixed with some theoretical cs. 
 
 ## Current Projects:
-- [Discord Bot - FEHbot](https://github.com/jpVinnie/FEH-Bot)
 - [VEX Robotics](https://github.com/CodeIGuess/Robotics) | [Joint project with CodeIGuess](https://github.com/CodeIGuess)
 - [Discord Bot - Ladbot](https://github.com/Camto/Lad) | [Joint project with Camto](https://github.com/Camto)
 
