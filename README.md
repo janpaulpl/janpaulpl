@@ -7,9 +7,9 @@
                          Student interested in computational physics mixed with some theoretical cs. 
 
 ## Current Projects:
-- [VEX Robotics](https://github.com/CodeIGuess/Robotics) | [Joint project with CodeIGuess](https://github.com/CodeIGuess)
-- [Discord Bot - Ladbot](https://github.com/Camto/Lad) | [Joint project with Camto](https://github.com/Camto)
-- [LM CodeQuest Practice](https://github.com/Camto/Codequest) | [Joint project with Camto](https://github.com/Camto)
+- [VEX Robotics](https://github.com/CodeIGuess/Robotics) 
+- [Discord Bot - Ladbot](https://github.com/Camto/Lad)
+- [LM CodeQuest Practice](https://github.com/Camto/Codequest)
 
 ### Proud of:
 - [High School Research Paper](https://github.com/jpVinnie/Pythagorean-Triples-in-the-Pascal-Triangle)
