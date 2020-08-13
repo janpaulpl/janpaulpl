@@ -4,7 +4,7 @@
   <img src="https://github.com/jpVinnie/jpVinnie/blob/master/Data/coolbackcropped.png" alt="banner" />
 </p>
 
-                         Student interested in computational physics mixed with some theoretical cs. 
+Dude interested in computational theory and cool games.
 
 ## Current Projects:
 - [VEX Robotics](https://github.com/CodeIGuess/Robotics) 
