@@ -7,12 +7,10 @@
 Dude interested in computational theory and cool games.
 
 ## Current Projects:
-- [VEX Robotics](https://github.com/CodeIGuess/Robotics)
 - [Joint High School Research Paper](https://github.com/jpVinnie/MathInv-2021) | [Camto](https://github.com/Camto)
 
 ### Proud of:
 - [High School Research Paper](https://github.com/jpVinnie/Pythagorean-Triples-in-the-Pascal-Triangle)
-- [Joint High School Research Paper](https://github.com/jpVinnie/MathInv-2021) | [Camto](https://github.com/Camto)
 - [Discord Bot - Ladbot](https://github.com/Camto/Lad) | [Joint project with Camto](https://github.com/Camto)
 
 ### Contact | Media:
