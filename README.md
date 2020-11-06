@@ -7,7 +7,7 @@
 I like computational physics, theoretical cs, and cool games.
 
 ## Current Projects:
-- [Joint High School Research Paper](https://github.com/jpVinnie/MathInv-2021) | [Camto](https://github.com/Camto)
+- [Joint High School Research Paper](https://github.com/jpVinnie/Applying-DEs-into-Computing-using-Types-and-integrating-a-programming-language-interface) | [Camto](https://github.com/Camto)
 
 ### Proud of:
 - [High School Research Paper](https://github.com/jpVinnie/Pythagorean-Triples-in-the-Pascal-Triangle)
