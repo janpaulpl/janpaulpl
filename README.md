@@ -7,12 +7,13 @@
 I like computational physics, theoretical cs, and cool games.
 
 ## Current Projects:
-- [Joint High School Research Paper](https://github.com/jpVinnie/Applying-DEs-into-Computing-using-Types-and-integrating-a-programming-language-interface) | [Camto](https://github.com/Camto)
-- [Parody FizzBuzz Challenge Solutions](https://github.com/Camto/Confucius-FizzBuzz) | [Camto](https://github.com/Camto) | [sinearc](https://github.com/sinearc)
+- [Joint High School Research Paper](https://github.com/jpVinnie/Applying-DEs-into-Computing-using-Types-and-integrating-a-programming-language-interface)
+- [Parody FizzBuzz Challenge Solutions](https://github.com/Camto/Confucius-FizzBuzz)
+- [Twitch Bot - Ladbot](https://github.com/Camto/Lad) 
 
 ### Proud of:
 - [High School Research Paper](https://github.com/jpVinnie/Pythagorean-Triples-in-the-Pascal-Triangle)
-- [Discord Bot - Ladbot](https://github.com/Camto/Lad) | [Joint project with Camto](https://github.com/Camto)
+- [Discord Bot - Ladbot](https://github.com/Camto/Lad)
 
 ### Contact | Media:
 - [Reddit](https://www.reddit.com/user/Stenfor) | [Twitter](https://twitter.com/jp_vinnie) | [Twitch](https://www.twitch.tv/jpvinnie) | [Discord](https://discordapp.com/users/294518633541926912) | [YouTube](https://www.youtube.com/channel/UCD6b4d3B_u7fct5YypG0Wow)
