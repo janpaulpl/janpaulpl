@@ -8,7 +8,6 @@ I like computational physics, theoretical cs, and cool games.
 
 ## Current Projects:
 - [Joint High School Research Paper](https://github.com/jpVinnie/Applying-DEs-into-Computing-using-Types-and-integrating-a-programming-language-interface)
-- [Parody FizzBuzz Challenge Solutions](https://github.com/Camto/Confucius-FizzBuzz)
 - [Twitch Bot - Ladbot](https://github.com/Camto/Lad) 
 
 ### Proud of:
