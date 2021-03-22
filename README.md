@@ -7,11 +7,10 @@
 I like computational physics, theoretical cs, and cool games.
 
 ## Current Projects:
-- [Joint High School Research Paper](https://github.com/jpVinnie/Applying-DEs-into-Computing-using-Types-and-integrating-a-programming-language-interface)
-- [Twitch Bot - Ladbot](https://github.com/Camto/Lad) 
+- [Discord Bot - Ladbot](https://github.com/Camto/Lad) 
 
 ### Proud of:
-- [High School Research Paper](https://github.com/jpVinnie/Pythagorean-Triples-in-the-Pascal-Triangle)
+- [All my research](https://github.com/jpVinnie/Research-Projects)
 - [Discord Bot - Ladbot](https://github.com/Camto/Lad)
 
 ### Contact | Media:
