@@ -7,7 +7,8 @@
 I like computational physics, theoretical cs, and cool games.
 
 ## Current Projects:
-- [Discord Bot - Ladbot](https://github.com/Camto/Lad) 
+- [Discord Bot - Ladbot](https://github.com/Camto/Lad)
+- Orthogonal projection in Ruby (SOON)
 - Dual numbers datatype implementation in l'hospitals rule (SOON)
 
 ### Proud of:
