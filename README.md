@@ -8,6 +8,7 @@ I like computational physics, theoretical cs, and cool games.
 
 ## Current Projects:
 - [Discord Bot - Ladbot](https://github.com/Camto/Lad) 
+- Dual numbers datatype implementation in l'hospitals rule (SOON)
 
 ### Proud of:
 - [All my research](https://github.com/jpVinnie/Research-Projects)
