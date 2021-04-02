@@ -8,6 +8,7 @@ I like computational physics, theoretical cs, and cool games.
 
 ## Current Projects:
 - [Discord Bot - Ladbot](https://github.com/Camto/Lad)
+- [Cryptocurrency - CornellCoin](https://github.com/earth418/cornellcoin)
 - Orthogonal projection in Ruby (SOON)
 - Dual numbers datatype implementation in l'hospitals rule (SOON)
 
