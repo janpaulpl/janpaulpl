@@ -1,7 +1,7 @@
 # [Hi!](https://jpvinnie.github.io/)
 
 <p align="center">
-  <img src="https://jpvinnie.github.io/pics/bannerimg.png" alt="banner" />
+  <img src="https://jpvinnie.github.io/pics/NewBanner.png" alt="banner" />
 </p>
 
 I like computational physics, theoretical cs, and cool games.
