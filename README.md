@@ -6,7 +6,7 @@ currently going through math + cs concentration @ cornell a∧s | _"The most pai
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n879o5zkykhwd6ig2ngjkz5ux&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=n879o5zkykhwd6ig2ngjkz5ux&redirect=true)
 
 ## What's my catch?
-I'm really interested in theoretical computer science and the deep rooted intersection between mathematics and computer science. My research areas with experience include [programming language development](https://github.com/jpVinnie/diffeq-lang), and computational complexity. I want to learn more about quantum computing and artificial intelligence.
+I'm really interested in theoretical computer science and the deep rooted intersection between mathematics and computer science. My research areas with experience include [programming language development](https://github.com/jpVinnie/diffeq-lang), [some pure math](https://github.com/jpVinnie/Research-Projects/tree/master/Pythagorean-Triples-in-the-Pascal-Triangle), and computational complexity. I want to learn more about quantum computing and artificial intelligence. 
 
 ## Busy with...
 - [Google CSSI: Online](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/)
