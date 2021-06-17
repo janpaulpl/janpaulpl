@@ -2,8 +2,10 @@
 
 currently going through math + cs concentration @ cornell a∧s | _"The most painful type of factory is a factory making factory"_
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpVinnie&show_icons=true&theme=gruvbox)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n879o5zkykhwd6ig2ngjkz5ux&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=n879o5zkykhwd6ig2ngjkz5ux&redirect=true)
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpVinnie&show_icons=true&theme=gruvbox" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpVinnie&theme=gruvbox&layout=compact" />
+</a>
 
 ## What's my catch? [Resume](https://github.com/jpVinnie/jpVinnie/blob/master/Data/LinkedIn%20Resume.pdf)
 I'm really interested in theoretical computer science and the deep rooted intersection between mathematics and computer science. My research areas with experience include [programming language development](https://github.com/jpVinnie/diffeq-lang), [some pure math](https://github.com/jpVinnie/Research-Projects/tree/master/Pythagorean-Triples-in-the-Pascal-Triangle), and language semantics. I want to learn more about quantum computing, complexity, and category theory. During my free time I enjoy [*good* movies](https://letterboxd.com/Vinnely/) and some [**weird** music](https://bandcamp.com/jpvinnely).
@@ -13,6 +15,8 @@ I'm really interested in theoretical computer science and the deep rooted inters
 - [Cryptocurrency - IvyCoin](https://github.com/earth418/cornellcoin)
 - Orthogonal projection in Ruby (SOON)
 - Dual numbers datatype implementation in l'hospitals rule (SOON)
+
+<img src="https://camo.githubusercontent.com/21a3ce80715bfadfef2b1576379cb6163a41ac0dd720cb6ae497f149f77aa3fd/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d6e3837396f357a6b796b687764366967326e676a6b7a35757826636f7665725f696d6167653d74727565267468656d653d6e6f7661746f72656d" align="right">
 
 ## The *good* stuff
 - [All my research](https://github.com/jpVinnie/Research-Projects)
