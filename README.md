@@ -1,6 +1,6 @@
 # [Hi](https://discordapp.com/users/294518633541926912), [I'm Jan-Paul](https://jpvinnie.github.io/). [![Linkedin: jpVinnie](https://img.shields.io/badge/-Hey,listen!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jan-paul-v-ramos-6268bb208/)](https://www.linkedin.com/in/jan-paul-v-ramos-6268bb208/) [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/jpvinnie)](https://www.buymeacoffee.com/jpvinnie) ![Twitter Follow](https://img.shields.io/twitter/follow/jp_vinnie?style=social)
 
-currently going through math + cs concentration @ cornell a∧s | _"The most painful type of factory is a factory making factory"_
+currently going through cs ft. math @ cornell a∧s | _"The most painful type of factory is a factory making factory"_
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpVinnie&show_icons=true&theme=gruvbox" />
