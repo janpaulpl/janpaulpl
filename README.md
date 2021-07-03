@@ -12,7 +12,6 @@ I'm really interested in theoretical computer science and the deep rooted inters
 
 ## Busy with...
 - [Google CSSI: Online](https://github.com/jpVinnie/GoogleCSSI21)
-- [Cryptocurrency - IvyCoin](https://github.com/earth418/cornellcoin)
 - Orthogonal projection in Ruby (SOON)
 - Dual numbers datatype implementation in l'hospitals rule (SOON)
 
