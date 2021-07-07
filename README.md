@@ -11,6 +11,7 @@ currently going through cs ft. math @ cornell a∧s | _"The most painful type of
 I'm really interested in theoretical computer science and the deep rooted intersection between mathematics and computer science. My research areas with experience include [programming language development](https://github.com/jpVinnie/diffeq-lang), [some pure math](https://github.com/jpVinnie/Research-Projects/tree/master/Pythagorean-Triples-in-the-Pascal-Triangle), and language semantics. I want to learn more about quantum computing, complexity, and category theory. During my free time I enjoy [*good* movies](https://letterboxd.com/Vinnely/) and some [**weird** music](https://bandcamp.com/jpvinnely).
 
 ## Busy with...
+- [Discord Bot - Ladbot](https://github.com/Camto/Lad)
 - Orthogonal projection in Ruby (SOON)
 - Dual numbers datatype implementation in l'hospitals rule (SOON)
 
@@ -19,4 +20,3 @@ I'm really interested in theoretical computer science and the deep rooted inters
 ## The *good* stuff
 - [Notes](https://github.com/jpVinnie/notebook)
 - [Research](https://github.com/jpVinnie/Research-Projects)
-- [Discord Bot - Ladbot](https://github.com/Camto/Lad)
