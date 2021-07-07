@@ -19,4 +19,4 @@ I'm really interested in theoretical computer science and the deep rooted inters
 
 ## The *good* stuff
 - [Notes](https://github.com/jpVinnie/notebook)
-- [Research](https://github.com/jpVinnie/Research-Projects)
+- [Research](https://github.com/jpVinnie/research)
