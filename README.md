@@ -18,5 +18,5 @@ I'm really interested in theoretical computer science and the deep rooted inters
 
 ## The *good* stuff
 - [Notes](https://github.com/jpVinnie/notebook)
-- [All my research](https://github.com/jpVinnie/Research-Projects)
+- [Research](https://github.com/jpVinnie/Research-Projects)
 - [Discord Bot - Ladbot](https://github.com/Camto/Lad)
