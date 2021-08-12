@@ -10,19 +10,26 @@ currently going through cs ft. math @ cornell a∧s | _"The most painful type of
 ## What's my catch? [Resume](https://github.com/jpVinnie/jpVinnie/blob/master/Data/LinkedIn%20Resume.pdf)
 I'm really interested in theoretical computer science and the deep rooted intersection between mathematics and computer science. My research areas with experience include [programming language development](https://github.com/jpVinnie/diffeq-lang), [some pure math](https://github.com/jpVinnie/PythagoreanTriples-PascalsTriangle), and language semantics. I want to learn more about quantum computing, complexity, and category theory. During my free time I enjoy [*good* movies](https://letterboxd.com/Vinnely/) and some [**weird** music](https://bandcamp.com/jpvinnely).
 
-<br>
-
-<img src="https://i.imgur.com/EbCmGHN.png" align="right">
-
 ## Busy with...
 - [Discord Ladbot](https://github.com/Camto/Lad)
 - Orthogonal projection in Ruby (SOON)
 - Dual numbers datatype implementation in l'hospitals rule (SOON)
-
-<br>
 
 <img src="https://camo.githubusercontent.com/21a3ce80715bfadfef2b1576379cb6163a41ac0dd720cb6ae497f149f77aa3fd/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d6e3837396f357a6b796b687764366967326e676a6b7a35757826636f7665725f696d6167653d74727565267468656d653d6e6f7661746f72656d" align="right">
 
 ## The *good* stuff
 - [Notes](https://github.com/jpVinnie/notebook)
 - [Research](https://github.com/jpVinnie/research)
+
+<br>
+
+## [Badges](https://www.linkedin.com/in/jan-paul-v-ramos-6268bb208/)
+<p float="left" align="center">
+  <img src="https://i.imgur.com/Vh3HQeC.png" width="100" /> 
+  <img src="https://i.imgur.com/AE1kebr.png" width="105" />
+  <img src="https://www.seekpng.com/png/full/453-4533774_intel-isef-intel-isef-logo.png" width="85" />
+  <img src="https://www.hendry-schools.org/cms/lib/FL01903259/Centricity/Domain/359/mu%20alpha%20theta%20logo.gif" width="100" />
+  <img src="https://companiesmarketcap.com/img/company-logos/256/LMT.png" width="105" alt="Lockheed Martin CodeQuest"/>
+  <img src="https://i.imgur.com/WGQhEQA.png" width="100" />
+  <img src="https://www.logolynx.com/images/logolynx/ab/ab86924e0d3d566e39e647a7f946ed3f.jpeg" width="100" />
+</p>
