@@ -21,8 +21,6 @@ I'm really interested in theoretical computer science and the deep rooted inters
 - [Notes](https://github.com/jpVinnie/notebook)
 - [Research](https://github.com/jpVinnie/research)
 
-<br>
-
 ## [Badges](https://www.linkedin.com/in/jan-paul-v-ramos-6268bb208/)
 <p float="left" align="center">
   
