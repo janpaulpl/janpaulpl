@@ -30,6 +30,6 @@ I'm really interested in theoretical computer science and the deep rooted inters
   <img src="https://www.seekpng.com/png/full/453-4533774_intel-isef-intel-isef-logo.png" width="85" />
   <img src="https://www.hendry-schools.org/cms/lib/FL01903259/Centricity/Domain/359/mu%20alpha%20theta%20logo.gif" width="100" />
   <img src="https://companiesmarketcap.com/img/company-logos/256/LMT.png" width="105" alt="Lockheed Martin CodeQuest"/>
-  <img src="https://i.imgur.com/WGQhEQA.png" width="100" />
+  <img src="https://i.imgur.com/WGQhEQA.png" width="105" />
   <img src="https://www.logolynx.com/images/logolynx/ab/ab86924e0d3d566e39e647a7f946ed3f.jpeg" width="100" />
 </p>
