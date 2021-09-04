@@ -7,7 +7,7 @@ currently going through cs ft. math @ cornell a∧s | _"The most painful type of
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpVinnie&theme=gruvbox&layout=compact" />
 </a>
 
-## What's my catch? [Resume](https://github.com/jpVinnie/jpVinnie/blob/master/Data/LinkedIn%20Resume.pdf)
+## What's my catch? [Resume](https://github.com/jpVinnie/jpVinnie/blob/master/Data/resume.pdf)
 I'm really interested in theoretical computer science and the deep rooted intersection between mathematics and computer science. My research areas with experience include [programming language development](https://github.com/jpVinnie/diffeq-lang), [some pure math](https://github.com/jpVinnie/PythagoreanTriples-PascalsTriangle), and language semantics. I want to learn more about quantum computing, complexity, and category theory. During my free time I enjoy [*good* movies](https://letterboxd.com/Vinnely/) and some [**weird** music](https://bandcamp.com/jpvinnely).
 
 ## Busy with...
