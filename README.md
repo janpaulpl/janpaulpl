@@ -2,7 +2,7 @@
 
 currently going through cs ft. math @ cornell a∧s | _"The most painful type of factory is a factory making factory"_
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/jpVinnie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpVinnie&show_icons=true&theme=gruvbox" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpVinnie&theme=gruvbox&layout=compact" />
 </a>
