@@ -1,10 +1,10 @@
-# [Hi](https://discordapp.com/users/294518633541926912), [I'm Jan-Paul](https://jpramos-me.github.io/). [![Linkedin: jpramos-me](https://img.shields.io/badge/-Hey,listen!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jpv-ramos/)](https://www.linkedin.com/in/jpv-ramos/) [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/jpramos-me)](https://www.buymeacoffee.com/jpramos-me) ![Twitter Follow](https://img.shields.io/twitter/follow/JanPaulPL?style=social)
+# [Hi](https://discordapp.com/users/294518633541926912), [I'm Jan-Paul](https://janpaulpl.github.io/). [![Linkedin: janpaulpl](https://img.shields.io/badge/-Hey,listen!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jpv-ramos/)](https://www.linkedin.com/in/jpv-ramos/) [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/janpaulpl)](https://www.buymeacoffee.com/janpaulpl) ![Twitter Follow](https://img.shields.io/twitter/follow/JanPaulPL?style=social)
 
 currently going through cs ft. math w/ phil @ cornell a∧s | _"The most painful type of factory is a factory making factory"_
 
-<a href="https://github.com/jpramos-me">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpramos-me&show_icons=true&theme=gruvbox" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpramos-me&theme=gruvbox&layout=compact" />
+<a href="https://github.com/janpaulpl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janpaulpl&show_icons=true&theme=gruvbox" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janpaulpl&theme=gruvbox&layout=compact" />
 </a>
 
 ## What I do 
